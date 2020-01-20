@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Andraw</string>
+    <string name="show_brushsize">Brush Size</string>
+    <string name="button_undo">Undo</string>
+    <string name="button_redo">Redo</string>
+    <string name="button_clear">Clear</string>
+</resources>
